@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [victor Hugo Mantovani] 👋</h1>
+<h1 align="center">Olá, eu sou [Victor Hugo Mantovani] 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
