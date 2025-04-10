@@ -31,8 +31,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&hide_title=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victormantovani01&show_icons=true&theme=github_dark&hide_title=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormantovani01&layout=compact&theme=github_dark"/>
 </p>
 
 ## 🚀 Projetos em destaque
@@ -45,7 +45,7 @@
 ### ✨ Um pouco mais sobre mim
 
 - 🔭 Atualmente estudo com projetos e trabalhos da faculdade.
-- 📚 Sempre estudando: banco de dados, java, javas cript e desenvolvendo web site.
+- 📚 Sempre estudando: banco de dados, java, java script e desenvolvendo web site.
 - 💬 Gosto de falar sobre banco de dados, performance, design systems e desenvolvimento inclusivo.
 
 ---
