@@ -52,7 +52,11 @@
 
 <h3 align="center">Vamos nos conectar!</h3>
 <p align="center">
-  <a href="mailto:victormantovani1234@gmail.com">💌 Email</a> •
-  <a href="https://www.linkedin.com/in/victor-hugo-mantovani-795264221/">💼 LinkedIn</a> •
-  <a href="https://seu-portifolio.com">🌐 Portfólio em Desenvolvimento</a>
+  <a href="https://mail.google.com/mail/u/0/#sent?compose=jrjtXLDsnPdpGqgrdmjZQHcCDwWVNbzszcVnrvhFJbtsgSvNDJQZkwzqLlmHzXKcnnHPNMxH">💌 Email</a> •
+  <a href="https://www.linkedin.com/in/victor-mantovani-420963337/">💼 LinkedIn</a> •
+  <a href="https://victormantovani01.github.io/Serv/index.html">🌐 Portfólio em Desenvolvimento</a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
