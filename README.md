@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/victor-mantovani-420963337/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="(https://mail.google.com/mail/u/0/#inbox)">
+  <a href="(https://mail.google.com/mail/victormantovani1234@gmail.comu/0/#inbox)">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://victormantovani01.github.io/Serv/index.html">
