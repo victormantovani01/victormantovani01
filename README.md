@@ -8,7 +8,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://victormantovani01.github.io/Serv/index.html">
-    <img alt="Portfolio" src="https://victormantovani01.github.io/BorealGelatosite/">
+    <img alt="Portfolio" src="https://victormantovani01.github.io/BorealGelatosite/Portofolio-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
