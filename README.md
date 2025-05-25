@@ -34,7 +34,7 @@
 
 ## 🚀 Projetos em destaque
 
-- 🎨 [Portfólio Pessoal](https://github.com/victormantovani01.github.io/BorealGelatosite/) – Meu portfólio com projetos recentes e responsivos.
+- 🎨 [Portfólio Pessoal](https://victormantovani01.github.io/BorealGelatosite/) – Meu portfólio com projetos recentes e responsivos.
 - 📝 [Blog Tech](https://github.com/victormantovani01/blog-tech) – Blog pessoal construído com Next.js e Markdown(Esta em desenvolvimento).
 
 ---
