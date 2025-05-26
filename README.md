@@ -7,8 +7,8 @@
   <a href="https://mail.google.com/mail/u/0/#sent?compose=jrjtXLDsnPdpGqgrdmjZQHcCDwWVNbzszcVnrvhFJbtsgSvNDJQZkwzqLlmHzXKcnnHPNMxH">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://victormantovani01.github.io/BorealGelatosite/">
-    <img alt="Portfolio" src="https://victormantovani01.github.io/Portfolio/">
+  <a href="https://victormantovani01.github.io/Portfolio/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
