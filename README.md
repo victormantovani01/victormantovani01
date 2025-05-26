@@ -8,7 +8,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://victormantovani01.github.io/BorealGelatosite/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="Portfolio" src="https://victormantovani01.github.io/Portfolio/">
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 ## 🚀 Projetos em destaque
 
-- 🎨 [Portfólio Pessoal](https://victormantovani01.github.io/BorealGelatosite/) – Meu portfólio com projetos recentes e responsivos.
+- 🎨 [Portfólio Pessoal](https://victormantovani01.github.io/Portfolio/) – Meu portfólio com projetos recentes e responsivos.
 - 📝 [Blog Tech](https://github.com/victormantovani01/blog-tech) – Blog pessoal construído com Next.js e Markdown(Esta em desenvolvimento).
 
 ---
