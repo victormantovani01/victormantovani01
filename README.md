@@ -34,7 +34,7 @@
 
 ## 🚀 Projetos em destaque
 
-- 🎨 [Portfólio Pessoal](https://victormantovani01.github.io/Portfolio/) – Meu portfólio com projetos recentes e responsivos.
+- 🎨 [Portfólio Pessoal](https://victormantovani01.github.io/Portfolio-/) – Meu portfólio com projetos recentes e responsivos.
 - 📝 [Blog Tech](https://github.com/victormantovani01/blog-tech) – Blog pessoal construído com Next.js e Markdown(Esta em desenvolvimento).
 
 ---
@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#sent?compose=jrjtXLDsnPdpGqgrdmjZQHcCDwWVNbzszcVnrvhFJbtsgSvNDJQZkwzqLlmHzXKcnnHPNMxH">💌 Email</a> •
   <a href="https://www.linkedin.com/in/victor-mantovani-420963337/">💼 LinkedIn</a> •
-  <a href="https://victormantovani01.github.io/Portfolio/">🌐 Portfólio </a>
+  <a href="https://victormantovani01.github.io/Portfolio-/">🌐 Portfólio </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
