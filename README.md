@@ -14,7 +14,7 @@
 
 ---
 
-💼 Desenvolvedor Beck-end e Front-End apaixonado por criar interfaces intuitivas, acessíveis e responsivas. Curioso, sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
+💼 Desenvolvedor Back-end e Front-End apaixonado por criar interfaces intuitivas, acessíveis e responsivas. Curioso, sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
 
 🚀 Gestão da informação - UFU/MG
 
