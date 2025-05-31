@@ -15,6 +15,9 @@
 ---
 
 💼 Desenvolvedor Front-End apaixonado por criar interfaces intuitivas, acessíveis e responsivas. Curioso, sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
+🎓 Tecnico em TI - Senac/SP
+🚀 Gestão da informação - UFU/MG
+
 
 ## 🛠️ Tecnologias
 
