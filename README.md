@@ -14,9 +14,11 @@
 
 ---
 
-💼 Desenvolvedor Front-End apaixonado por criar interfaces intuitivas, acessíveis e responsivas. Curioso, sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
-🎓 Tecnico em TI - Senac/SP
+💼 Desenvolvedor Beck-end e Front-End apaixonado por criar interfaces intuitivas, acessíveis e responsivas. Curioso, sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
+
 🚀 Gestão da informação - UFU/MG
+
+🎓 Tecnico em TI - SENAC/SP
 
 
 ## 🛠️ Tecnologias
